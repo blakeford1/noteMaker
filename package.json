@@ -1,0 +1,24 @@
+{
+  "name": "notemaker",
+  "version": "1.0.0",
+  "description": "Application that lets you write and save notes!",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakeford1/noteMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakeford1/noteMaker/issues"
+  },
+  "homepage": "https://github.com/blakeford1/noteMaker#readme"
+}
